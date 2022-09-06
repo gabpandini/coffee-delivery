@@ -4,5 +4,5 @@
 <br/>
 Project created with Vite.
 
-<p>Librarys and tools used:</p>
-React;
+Librarys and tools used:
+- React;
